@@ -1,0 +1,31 @@
+/* CSS HEX */
+
+/* Global Colors*/
+:root {
+--melon: #fec5bbff;
+--pale-pink: #fcd5ceff;
+--misty-rose: #fae1ddff;
+--isabelline: #f8edebff;
+--platinum: #e8e8e4ff;
+--alabaster: #d8e2dcff;
+--linen: #ece4dbff;
+--champagne-pink: #ffe5d9ff;
+--peach-puff: #ffd7baff;
+--peach-crayola: #fec89aff;
+/* palette 2 colors*/
+--rose: #df2935ff;
+--dark-sea-green: #86ba90ff;
+--pale-yellow: #f5f3bbff;
+--tan-crayola: #dfa06eff;
+--orange-crayola: #e87458;
+--burgundy: #412722ff;
+}
+
+/* Global Colors*/
+.btn .btn-warning  {
+    background-color: var(--orange-crayola) !important;
+}
+
+.text-danger {
+    color: var(--peach-crayola);
+}
